@@ -3,7 +3,7 @@
 note that in this project we will not work on back end , we will be working on back on the other projects so in other words we are
 only working on front end in this project of website development 
 
-### This project can help you to master basic:
+### This project can help you to get basic knowledge on:
 #### HTML5
 #### CSS3
 #### JavaScript
