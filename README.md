@@ -4,11 +4,11 @@ note that in this project we will not work on back end , we will be working on b
 only working on front end in this project of website development 
 
 ### This project can help you to get basic knowledge on:
-#### HTML5
-#### CSS3
-#### JavaScript
-#### jQuery
-#### Bootstrap
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* Bootstrap
 
 i hope that it will be very useful for beginners in website development later on in other projects we will be working on both front-end 
 together with back-end 
