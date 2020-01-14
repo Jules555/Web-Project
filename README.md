@@ -11,11 +11,9 @@ only working on front end in this project of website development
 * Bootstrap
 
 i hope that it will be very useful for beginners in website development later on in other projects we will be working on both front-end 
-together with back-end 
+together with back-end, this will help you to become a full stack web developer
 
-###### this will help you to become a full stack web developer
-
-This project contains three files which are Sample.html, sample.css, and sample.js
+####This project contains three files which are Sample.html, sample.css, and sample.js
 
 ##### Note that in order to run this project well and see all the design you will need to have these three librarys: jQuery, Popper and Bootstrap
 
